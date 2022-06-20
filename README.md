@@ -9,7 +9,7 @@ ARIA is actually an abbreviation for the following:
 - (A)ttest - Verify whether a given user is a Monash University Student
 
 # Contribute
-Feel free to fork this bot and add whatever you wish to it.
+Feel free to fork this bot and add whatever you wish to it. If you want to contact me directly you can via my discord: Echo2124#3778
 
 # Planned Changes
 - Overhaul Database implementation/handler which is currently rather primative
