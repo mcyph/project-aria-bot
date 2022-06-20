@@ -12,6 +12,7 @@ ARIA is actually an abbreviation for the following:
 Feel free to fork this bot and add whatever you wish to it. If you want to contact me directly you can via my discord: Echo2124#3778
 
 # Planned Changes
+- Move constants to a separate JSON file (next thing I will be working on)
 - Overhaul Database implementation/handler which is currently rather primative
 - Clean up code
 - Work on stability improvements
