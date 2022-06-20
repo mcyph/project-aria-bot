@@ -1,5 +1,5 @@
 # Project Purpose
-Originally this boty was designed to verify whether a discord user is a student via the attest feature, but it expanded to be a more general purpose bot after the realisation that there were more features that could be added which weren't offered by existing bots like relaying Monash University news and COVID figures directly from the Victorian Department of Health.
+Originally this bot was designed to verify whether a discord user is a student via the attest feature, but it expanded to be a more general purpose bot after the realisation that there were more features that could be added which weren't offered by existing bots like relaying Monash University news and COVID figures directly from the Victorian Department of Health.
 
 # What does ARIA stand for?
 ARIA is actually an abbreviation for the following: 
